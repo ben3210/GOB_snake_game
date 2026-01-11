@@ -1,3 +1,4 @@
+```markdown
 # 🐍 GOB Snake Game
 
 [![Scratch Project](https://img.shields.io/badge/Scratch-Play-blue?logo=scratch)](https://scratch.mit.edu/projects/1140783356) [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE) [![Stars](https://img.shields.io/github/stars/ben3210/GOB-Snake-Game?style=social)](https://github.com/ben3210/GOB-Snake-Game/stargazers)
@@ -46,6 +47,7 @@
 
 ## 📂 Project Structure
 
+```
 
 ├── Ben's Snake Game GOB.sb3
 ├── README.md
@@ -55,6 +57,7 @@
 ├── game.png
 └── game_over.png
 
+```
 
 ## 👤 Author
 
